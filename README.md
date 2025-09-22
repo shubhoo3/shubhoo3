@@ -55,57 +55,8 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
 
-🌟 Featured Projects
-🛒 Nxt-Trendz eCommerce Platform
-A comprehensive frontend eCommerce application built with React, featuring:
-
-Product browsing with advanced search and filtering capabilities
-Responsive design optimized for all devices
-Cross-browser compatibility and performance optimization
-Technologies: React.js, HTML5, CSS3, Bootstrap
-
-👥 HR Pulse Dashboard
-A full-stack HR management solution designed to streamline recruitment workflows:
-
-Candidate profile management with PDF resume generation
-MongoDB integration for efficient data handling
-AI-assisted development improving efficiency by 25%
-Technologies: React.js, Node.js, Express.js, MongoDB
-
-🏏 IPL Victory Probability Estimator
-Machine Learning model predicting cricket match outcomes:
-
-Predictive analytics using historical IPL data
-Exploratory Data Analysis with comprehensive visualizations
-Model optimization through feature engineering and hyperparameter tuning
-Technologies: Python, Scikit-learn, Matplotlib, Seaborn
-
-🍽️ Restaurant Rating Predictor
-Interactive ML web application for restaurant rating predictions:
-
-Real-time predictions with user-friendly interface
-Data preprocessing and feature selection optimization
-Streamlit deployment for seamless user experience
-Technologies: Python, Streamlit, Scikit-learn
-
-🛍️ Blinkit Clone
-Full-featured grocery delivery application:
-
-Real-time inventory management and product search
-Payment gateway integration with Stripe
-Cart management and performance optimization
-Technologies: React.js, Node.js, MongoDB, Stripe API
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-
 <h3 align="left">🌟 Featured Projects:</h3>
-<h4>🛒 Nxt-Trendz eCommerce Platform</h4>
+<h4>🛒 <a href="https://crazenxttendz.ccbp.tech/" target="_blank">Nxt-Trendz eCommerce Platform</a></h4>
 <p>A comprehensive frontend eCommerce application built with React, featuring:</p>
 <ul>
 <li><strong>Product browsing</strong> with advanced search and filtering capabilities</li>
@@ -113,15 +64,15 @@ Technologies: React.js, Node.js, MongoDB, Stripe API
 <li><strong>Cross-browser compatibility</strong> and performance optimization</li>
 <li><strong>Technologies:</strong> React.js, HTML5, CSS3, Bootstrap</li>
 </ul>
-<h4>👥 HR Pulse Dashboard</h4>
-<p>A full-stack HR management solution designed to streamline recruitment workflows:</p>
+<h4>👥 <a href="https://krpyto.netlify.app/" target="_blank">Crypto Dashboard</a></h4>
+<p>A modern, responsive cryptocurrency dashboard built with React that displays live market data from the CoinGecko API:</p>
 <ul>
-<li><strong>Candidate profile management</strong> with PDF resume generation</li>
-<li><strong>MongoDB integration</strong> for efficient data handling</li>
-<li><strong>AI-assisted development</strong> improving efficiency by 25%</li>
-<li><strong>Technologies:</strong> React.js, Node.js, Express.js, MongoDB</li>
+<li><strong>Real-time cryptocurrency</strong> prices and market information</li>
+<li><strong>Displays rank, name, price, 24h change, market cap, and volume.</strong> Sort by price, 24h change, market cap, volume, and rank</li>
+<li><strong>Search coins by name or symbol with debounced input</strong> with debounced input</li>
+<li><strong>Technologies:</strong> React.js, Grid, Flexbox, CSS Variables, CoinGecko API</li>
 </ul>
-<h4>🏏 IPL Victory Probability Estimator</h4>
+<h4>🏏 <a href="https://github.com/shubhoo3/IPL-Victory-Probability-Estimator.git" target="_blank">IPL Victory Probability Estimator</a></h4>
 <p>Machine Learning model predicting cricket match outcomes:</p>
 <ul>
 <li><strong>Predictive analytics</strong> using historical IPL data</li>
@@ -129,7 +80,7 @@ Technologies: React.js, Node.js, MongoDB, Stripe API
 <li><strong>Model optimization</strong> through feature engineering and hyperparameter tuning</li>
 <li><strong>Technologies:</strong> Python, Scikit-learn, Matplotlib, Seaborn</li>
 </ul>
-<h4>🍽️ Restaurant Rating Predictor</h4>
+<h4>🍽️ <a href="https://github.com/shubhoo3/Restaurant-Rating-Predictor.git" target="_blank">Restaurant Rating Predictor</a></h4>
 <p>Interactive ML web application for restaurant rating predictions:</p>
 <ul>
 <li><strong>Real-time predictions</strong> with user-friendly interface</li>
@@ -137,7 +88,7 @@ Technologies: React.js, Node.js, MongoDB, Stripe API
 <li><strong>Streamlit deployment</strong> for seamless user experience</li>
 <li><strong>Technologies:</strong> Python, Streamlit, Scikit-learn</li>
 </ul>
-<h4>🛍️ Blinkit Clone</h4>
+<h4>🛍️ <a href="https://github.com/shubhoo3/Blinkit-Clone.git" target="_blank">Blinkit Clone</a></h4>
 <p>Full-featured grocery delivery application:</p>
 <ul>
 <li><strong>Real-time inventory management</strong> and product search</li>
@@ -145,4 +96,3 @@ Technologies: React.js, Node.js, MongoDB, Stripe API
 <li><strong>Cart management</strong> and performance optimization</li>
 <li><strong>Technologies:</strong> React.js, Node.js, MongoDB, Stripe API</li>
 </ul>
-
