@@ -54,6 +54,48 @@
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
+
+🌟 Featured Projects
+🛒 Nxt-Trendz eCommerce Platform
+A comprehensive frontend eCommerce application built with React, featuring:
+
+Product browsing with advanced search and filtering capabilities
+Responsive design optimized for all devices
+Cross-browser compatibility and performance optimization
+Technologies: React.js, HTML5, CSS3, Bootstrap
+
+👥 HR Pulse Dashboard
+A full-stack HR management solution designed to streamline recruitment workflows:
+
+Candidate profile management with PDF resume generation
+MongoDB integration for efficient data handling
+AI-assisted development improving efficiency by 25%
+Technologies: React.js, Node.js, Express.js, MongoDB
+
+🏏 IPL Victory Probability Estimator
+Machine Learning model predicting cricket match outcomes:
+
+Predictive analytics using historical IPL data
+Exploratory Data Analysis with comprehensive visualizations
+Model optimization through feature engineering and hyperparameter tuning
+Technologies: Python, Scikit-learn, Matplotlib, Seaborn
+
+🍽️ Restaurant Rating Predictor
+Interactive ML web application for restaurant rating predictions:
+
+Real-time predictions with user-friendly interface
+Data preprocessing and feature selection optimization
+Streamlit deployment for seamless user experience
+Technologies: Python, Streamlit, Scikit-learn
+
+🛍️ Blinkit Clone
+Full-featured grocery delivery application:
+
+Real-time inventory management and product search
+Payment gateway integration with Stripe
+Cart management and performance optimization
+Technologies: React.js, Node.js, MongoDB, Stripe API
+
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
