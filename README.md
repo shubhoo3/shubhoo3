@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubham Upadhyay</h1>
 <h3 align="center">A passionate Full-Stack Developer and Data Scientist</h3>
 
+
+
 - 🔭 I'm currently working on **MERN Stack applications and Machine Learning projects**
 
 - 🌱 I'm currently learning **Advanced React patterns, Data Science, and AI/ML**
