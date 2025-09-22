@@ -64,9 +64,3 @@
 
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhoo3&show_icons=true&locale=en&layout=compact" alt="shubhoo3" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhoo3&show_icons=true&locale=en" alt="shubhoo3" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhoo3&" alt="shubhoo3" /></p>
