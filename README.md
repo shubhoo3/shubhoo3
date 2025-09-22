@@ -145,6 +145,4 @@ Technologies: React.js, Node.js, MongoDB, Stripe API
 <li><strong>Cart management</strong> and performance optimization</li>
 <li><strong>Technologies:</strong> React.js, Node.js, MongoDB, Stripe API</li>
 </ul>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 
