@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **shubhamupadhyay7976@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://your-resume-link.com)
-
 - ⚡ Fun fact **I love turning data into actionable insights and building user-centric applications**
 
 <h3 align="left">Connect with me:</h3>
