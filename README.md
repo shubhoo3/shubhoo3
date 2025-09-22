@@ -104,4 +104,51 @@ Technologies: React.js, Node.js, MongoDB, Stripe API
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 
+<h3 align="left">🌟 Featured Projects:</h3>
+<h4>🛒 Nxt-Trendz eCommerce Platform</h4>
+<p>A comprehensive frontend eCommerce application built with React, featuring:</p>
+<ul>
+<li><strong>Product browsing</strong> with advanced search and filtering capabilities</li>
+<li><strong>Responsive design</strong> optimized for all devices</li>
+<li><strong>Cross-browser compatibility</strong> and performance optimization</li>
+<li><strong>Technologies:</strong> React.js, HTML5, CSS3, Bootstrap</li>
+</ul>
+<h4>👥 HR Pulse Dashboard</h4>
+<p>A full-stack HR management solution designed to streamline recruitment workflows:</p>
+<ul>
+<li><strong>Candidate profile management</strong> with PDF resume generation</li>
+<li><strong>MongoDB integration</strong> for efficient data handling</li>
+<li><strong>AI-assisted development</strong> improving efficiency by 25%</li>
+<li><strong>Technologies:</strong> React.js, Node.js, Express.js, MongoDB</li>
+</ul>
+<h4>🏏 IPL Victory Probability Estimator</h4>
+<p>Machine Learning model predicting cricket match outcomes:</p>
+<ul>
+<li><strong>Predictive analytics</strong> using historical IPL data</li>
+<li><strong>Exploratory Data Analysis</strong> with comprehensive visualizations</li>
+<li><strong>Model optimization</strong> through feature engineering and hyperparameter tuning</li>
+<li><strong>Technologies:</strong> Python, Scikit-learn, Matplotlib, Seaborn</li>
+</ul>
+<h4>🍽️ Restaurant Rating Predictor</h4>
+<p>Interactive ML web application for restaurant rating predictions:</p>
+<ul>
+<li><strong>Real-time predictions</strong> with user-friendly interface</li>
+<li><strong>Data preprocessing</strong> and feature selection optimization</li>
+<li><strong>Streamlit deployment</strong> for seamless user experience</li>
+<li><strong>Technologies:</strong> Python, Streamlit, Scikit-learn</li>
+</ul>
+<h4>🛍️ Blinkit Clone</h4>
+<p>Full-featured grocery delivery application:</p>
+<ul>
+<li><strong>Real-time inventory management</strong> and product search</li>
+<li><strong>Payment gateway integration</strong> with Stripe</li>
+<li><strong>Cart management</strong> and performance optimization</li>
+<li><strong>Technologies:</strong> React.js, Node.js, MongoDB, Stripe API</li>
+</ul>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shubham-upadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-upadhyay" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shubhamupadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhamupadhyay" height="30" width="40" /></a>
+</p>
+
 
